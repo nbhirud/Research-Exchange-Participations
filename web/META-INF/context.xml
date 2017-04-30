@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/NikhilBhirud_Assg4">
+  <!--  <Resource auth="Container" driverClassName="com.mysql.jdbc.Driver" 
+            logAbandoned="true" maxActive="100" maxIdle="30" maxWait="10000" name="jdbc/nbad_proj" 
+            password="1DXJEc_E4Mtd" removeAbandoned="true" removeAbandonedTimeout="60" 
+            type="javax.sql.DataSource" url="jdbc:mysql://127.3.110.2:3306/nbad_proj" username="adminAv6fYQS"/>-->
+  <Resource auth="Container" driverClassName="com.mysql.jdbc.Driver" logAbandoned="true" maxActive="100" maxIdle="30" maxWait="10000" name="jdbc/nbad_proj" password="s7tbtEtEXCNI" removeAbandoned="true" removeAbandonedTimeout="60" type="javax.sql.DataSource" url="jdbc:mysql://127.9.231.2:3306/nbad_proj" username="admin3m1HPz3"/>
+</Context>
